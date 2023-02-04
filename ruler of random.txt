@@ -1,8 +1,8 @@
-算法生成思路：
+Algorithm generation ideas:
 
-先准备1024个数组
-利用移位进行操作。
-AbC(全的)
-111(常用密码)
-@@@(常用密码的掩码)
-123456(二次密码)
+Prepare 1024 arrays first
+Operate with shifting.
+AbC (full)
+111 (commonly used password)
+@@@ (mask of commonly used passwords)
+123456 (secondary password)
