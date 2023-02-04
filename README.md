@@ -4,4 +4,4 @@ Hi ,every , you can write the random integers to issues ,and we see it whether i
 THX...
 
 
-if you want the code of random Algorithm generation ideas,please let me know.
+if you want the code of random Algorithm generation ideas,please give me a star and let me know,then you will know the detail of Algorithm.
